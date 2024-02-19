@@ -1,0 +1,1 @@
+cmd_/home/s109037012/lab5/exercise/data2timestamp.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/s109037012/lab5/exercise/data2timestamp.ko /home/s109037012/lab5/exercise/data2timestamp.o /home/s109037012/lab5/exercise/data2timestamp.mod.o;  true

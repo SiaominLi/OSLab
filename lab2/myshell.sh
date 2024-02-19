@@ -1,0 +1,9 @@
+#myshell.sh
+
+for i in 1 2 3 4 5 ; do
+	echo item $i
+done
+
+for ((i=1 ; i<6 ; i++)); do
+	echo item $i
+done

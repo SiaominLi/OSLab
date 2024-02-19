@@ -1,0 +1,20 @@
+//main.c
+#include <stdio.h>
+#include "lib.h"
+
+int sort(int array[] , int n){
+	for(int i = 0; i < n; i++) {
+		int min_index = i;
+		for(int j = i+1; j < n; j++) {
+			if(array[j] < array[min_index]) {
+				min_index = j;
+			}
+		}
+		
+		// swap
+		int temp = array[min_index];
+		array[min_index] = array[i];
+		array[i] = temp;
+	}
+
+}

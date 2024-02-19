@@ -1,0 +1,1 @@
+cmd_/home/s109037012/Desktop/lab5/hello_module/hello_module.mod := printf '%s\n'   hello_module.o | awk '!x[$$0]++ { print("/home/s109037012/Desktop/lab5/hello_module/"$$0) }' > /home/s109037012/Desktop/lab5/hello_module/hello_module.mod

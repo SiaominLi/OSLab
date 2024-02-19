@@ -1,0 +1,1 @@
+cmd_/home/s109037012/lab5/exercise/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/s109037012/lab5/exercise/Module.symvers -T /home/s109037012/lab5/exercise/modules.order -i Module.symvers -e 

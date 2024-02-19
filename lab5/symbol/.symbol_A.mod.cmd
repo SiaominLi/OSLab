@@ -1,0 +1,1 @@
+cmd_/home/s109037012/Desktop/lab5/symbol/symbol_A.mod := printf '%s\n'   symbol_A.o | awk '!x[$$0]++ { print("/home/s109037012/Desktop/lab5/symbol/"$$0) }' > /home/s109037012/Desktop/lab5/symbol/symbol_A.mod

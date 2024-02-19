@@ -1,0 +1,1 @@
+cmd_/home/s109037012/lab5/exercise/modules.order := {   echo /home/s109037012/lab5/exercise/data2timestamp.o;   echo /home/s109037012/lab5/exercise/myage.o; :; } > /home/s109037012/lab5/exercise/modules.order

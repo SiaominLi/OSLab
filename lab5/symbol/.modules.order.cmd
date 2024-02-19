@@ -1,0 +1,1 @@
+cmd_/home/s109037012/Desktop/lab5/symbol/modules.order := {   echo /home/s109037012/Desktop/lab5/symbol/symbol_A.o;   echo /home/s109037012/Desktop/lab5/symbol/symbol_B.o; :; } > /home/s109037012/Desktop/lab5/symbol/modules.order

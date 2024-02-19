@@ -1,0 +1,1 @@
+cmd_/home/s109037012/Desktop/lab5/symbol/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/s109037012/Desktop/lab5/symbol/Module.symvers -T /home/s109037012/Desktop/lab5/symbol/modules.order -i Module.symvers -e 
